@@ -9,11 +9,6 @@ A simple weather app that fetches real-time weather data using the **WeatherAPI*
 
 ---
 
-## 📸 Screenshot
-![Weather App Preview](weather.jpg)
-
----
-
 ## 📌 Features
 - 🌍 Get real-time weather updates for any city
 - 🎨 Simple and responsive Bootstrap design
